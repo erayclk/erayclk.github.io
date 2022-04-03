@@ -1,0 +1,19 @@
+header img{
+    height: 140px;
+    width: 140px;
+}
+header {
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+    width: 70%;
+    display: flex;
+    border: 5px yellowgreen solid;
+    background-color: rgba(19, 135, 127, 0.575);
+    align-items: center;
+    justify-content: space-around;
+
+}
+header p {
+    font-size: xx-large;
+}
